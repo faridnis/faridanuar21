@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 
 <br>
 
-My Github Stats
+<h2>My Github Stats</h2>
 
 ![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=faridanuar21&show_icons=true&theme=tokyonight)
 
 <br>
 
-Language Used
+<h2>Language Used</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridanuar21&layout=compact)](https://github.com/faridanuar21/github-readme-stats)
 
