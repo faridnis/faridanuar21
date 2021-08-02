@@ -1,4 +1,4 @@
-### Hi there I am Farid 👋
+### Hi there I am Muhamad Farid and can call me Farid 👋
 
 <!--
 **faridanuar21/faridanuar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning C#, Python and PHP
 
-<h3>I'm Farid, a full-time system engineer, I like to develop and automate my work 👨‍💻 </h3>
+<h3>Full-time system engineer, I like to develop and automate my work 👨‍💻 </h3>
 <br>
 
 <table style="width:100%">
