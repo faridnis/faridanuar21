@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning C# and Python
+🌱 I’m currently learning C#, Python and PHP
 
 <h3>I'm Farid, a full-time system engineer, I like to develop and automate my work 👨‍💻 </h3>
 <br>
