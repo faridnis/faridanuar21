@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning C#, Python and PHP
 
-<h3>Full-time system engineer, I like to develop and automate my work 👨‍💻 </h3>
+<h3>Full-time system engineer, I like to automate my work 👨‍💻 </h3>
 <br>
 
 <table style="width:100%">
