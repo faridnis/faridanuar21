@@ -25,11 +25,13 @@ Here are some ideas to get you started:
     <th>Firstname</th>
     <th>Lastname</th> 
     <th>Age</th>
+    <th>Email</th>
   </tr>
   <tr>
     <td>Farid</td>
     <td>Anuar</td>
-    <td>26</td>
+    <td>27</td>
+    <td>faridanuar26@gmail.com</td>
   </tr>
 </table>
 
