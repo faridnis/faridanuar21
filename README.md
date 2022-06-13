@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning C#, Python and PHP
+🌱 I’m currently learning PHP and C#
 
 <h3>Full-time system engineer, I like to automate my work 👨‍💻 </h3>
 <br>
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
     <th>Firstname</th>
     <th>Lastname</th> 
     <th>Age</th>
-    <th>Email</th>
+    <th>Enthusiastic</th>
   </tr>
   <tr>
     <td>Farid</td>
     <td>Anuar</td>
     <td>27</td>
-    <td>faridanuar26@gmail.com</td>
+    <td>Techs and gadget</td>
   </tr>
 </table>
 
