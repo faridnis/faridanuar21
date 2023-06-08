@@ -15,22 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning PHP and C#
+🌱 I’m currently learning PHP, C# and Python
 
-<h3>Full-time system engineer, I like to automate my work 👨‍💻 </h3>
+<h3>Full-time system engineer, I love to develop and automate my work using tech 👨‍💻 </h3>
 <br>
 
-<table style="width:100%">
+<table style="width:90%">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
-    <th>Age</th>
     <th>Enthusiastic</th>
   </tr>
   <tr>
     <td>Farid</td>
     <td>Anuar</td>
-    <td>27</td>
     <td>Techs and gadget</td>
   </tr>
 </table>
